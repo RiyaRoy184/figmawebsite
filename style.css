@@ -1,0 +1,363 @@
+*{
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    cursor: pointer;
+    width: 100%;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    width: 50px;
+    height: 60px;
+}
+h2{
+    margin-top: 20px;
+}
+.items{
+   display: flex;
+   justify-content: center;
+   gap: 40px;
+   list-style: none;
+   font-size: 20px;
+   font-weight: 600;
+}
+.img2{
+    height:20px ;
+}
+.head1 {
+    position: absolute;
+    top: 20%;
+    left: 50px; 
+    color: white; 
+    font-size: 20px;
+    font-weight:900;
+    line-height: 3.5rem; 
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.p{
+    font-size: 20px;
+    line-height: 1.5rem;
+    font-weight: 300;
+}
+.sp{
+    background-color:bisque;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+#second{
+    margin-top: 50px;
+    display: flex;
+    justify-content:space-around;
+}
+.s1{
+    gap: 20px;
+}
+h4{
+    text-align: center;
+    font-size: 20px;
+}
+.par{
+    text-align: center;
+    cursor: pointer;
+}
+#third{
+    width: 100%;
+    margin-top: 50px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.t1{
+    margin-top: 50px;
+    text-align: justify;
+    font-size: 20px;
+    font-weight:900;
+    line-height: 3.5rem; 
+    white-space: nowrap; 
+    /* margin-left: -200px; */
+    align-items: center; 
+}
+.he{
+    font-family: "Dancing Script", cursive;
+}
+.img4{
+    margin-left: -500px;
+}
+.parr{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 3rem;
+}
+.t2{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.img8 {
+    height: auto;
+    display: block;
+}
+.t3{
+    display: block;
+}
+.ps{
+    background-color:bisque;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 250px;
+}
+.img6{
+    height: 100px;
+    background-color: bisque;
+}
+#fourth{
+    background-color:burlywood;
+    height: 500px;
+    margin-top: 50px;
+    border-radius: 50px;
+    text-align: center;
+}
+.h3{
+    padding-top: 80px;
+    font-family: "Concert One", sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    color: white;
+}
+.ff{
+    padding: 20px;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.f1{
+    background-color: white;
+    border-radius: 50px;
+}
+h{
+    font-size: 20px;
+    font-weight: 400;
+}
+.pp{
+    line-height: 1.5rem;
+}
+#fifth{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+#sixth{
+    margin-top: 90px;
+    text-align: center;
+}
+.hh{
+    font-size: 60px;
+    font-family: "Sevillana", cursive;
+    font-weight: 400;
+}
+.pap{
+    color: darkolivegreen;
+    font-size: 20px;
+    line-height: 2rem;
+    margin-top: 10px;
+    font-family: "Pirata One", system-ui;
+}
+#seventh{
+    margin-top: 50px;
+    justify-content: space-around;
+    display: flex;
+}
+.heh{
+    font-size: 20px;
+    font-weight: 500;
+}
+.seva{
+    display: block;
+    justify-content:space-around;
+}
+.pep{
+    margin-top: 5px;
+    font-size: 20px;
+}
+.seve{
+    display: flex;
+    justify-content:space-between;
+}
+#eigth{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+#ninth{
+    margin-top: 90px;
+    text-align: center;
+    width: 100%;
+}
+#tenth{
+    margin-top: 90px;
+    text-align: center;
+}
+#eleventh{
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.e1{
+    text-align: justify;
+    line-height: 1.5rem;
+}
+.e12{
+    display: flex;
+    justify-content: space-between;
+}
+.ah{
+    font-size: 18px;
+    font-family: "Martian Mono", monospace;
+}
+.pe{
+    font-family: "Sevillana", cursive;
+  font-weight: 400;
+}
+#tewelth{
+    margin-top: 50px;
+    position: relative;
+}
+.headi {
+    top: 10%;
+    left: 35%;
+    position: absolute;
+    color:white; 
+    font-size: 20px;
+    font-weight:900;
+    line-height: 3.5rem; 
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#footer{
+    margin-top: 50px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.fo1{
+    list-style: none;
+    padding: 20px;
+}
+.fo11{
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+.hah{
+    line-height: 2rem;
+    font-family: "Martian Mono", monospace;
+}
+li{
+    line-height: 2rem;
+    font-family: "Pirata One", system-ui;
+    font-weight: 400;
+}
+@media (max-width:760px){
+    .navbar{
+        width: 50%;
+    }
+    .img{
+        width: 50px;
+        height: 60px;
+    }
+    h2{
+        font-size: 15px;
+    }
+    .items{
+    gap: 15px;
+   list-style: none;
+   font-size: 15px;
+   font-weight: 400;
+    }
+    #three{
+        display: block;
+    }
+    .t1{
+        margin-top: 25px;
+        font-size: 10px;
+        font-weight:500;
+        line-height: 1.5rem; 
+        white-space: nowrap; 
+        /* margin-left: -200px; */
+        align-items: center; 
+    }
+    .parr{
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 2rem;
+    }
+    .t3{
+        font-size: 20px;
+        margin-top: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .img6{
+        margin-bottom: 30px;
+    }
+    .ps{
+        margin-left: 160px;
+    }
+    #fourth{
+        margin-top: 25px;
+    }
+    .h3{
+        padding-top: 40px ; 
+       }
+       .ff{
+        padding-top: 10px;
+       }
+       #fifth{
+        margin-top: 20px;
+        flex-wrap: wrap;
+       }
+       #sixth{
+        margin-top: 25px;
+       }
+       #seventh{
+        margin-top: 25px;
+        flex-wrap: wrap;
+       }
+        #eigth{
+            margin-top: 25px;
+            flex-wrap: wrap;
+        }
+        #ninth{
+            margin-top: 25px;
+            width: 25%;
+        }
+        #eleventh{
+            flex-wrap: wrap;
+            margin-top: 25px;
+        }
+        #tewelth{
+            margin-top: 25px;
+        }
+        .headi {
+            top: 10%;
+            left: 35%;
+            position: absolute;
+            color:white; 
+            font-size: 10px;
+            font-weight:900;
+            line-height: 1.5rem; 
+        }
+        #footer{
+            margin-top: 25px;
+            flex-wrap: wrap;
+        }
+}
